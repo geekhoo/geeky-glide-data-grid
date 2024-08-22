@@ -1,0 +1,20 @@
+npm i @babel/cli @babel/core @babel/plugin-proposal-class-properties @babel/preset-env @babel/preset-react @babel/preset-typescript
+
+npm i @linaria/babel-preset @linaria/cli @linaria/core @linaria/esbuild @linaria/react @linaria/shaker @linaria/vite @linaria/webpack-loader
+
+npm i @storybook/addon-actions @storybook/addon-controls @storybook/addon-links @storybook/addon-storysource @storybook/addons @storybook/react-vite @storybook/react-webpack5 @storybook/react
+
+npm i @testing-library/react-hooks @testing-library/react @testing-library/user-event
+
+npm i @types/cheerio @types/lodash @types/marked @types/node @types/prosemirror-commands @types/prosemirror-inputrules @types/prosemirror-model @types/prosemirror-state @types/react-dom @types/react-syntax-highlighter @types/react
+
+npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser @typescript-eslint/typescript-estree
+
+npm install chokidar-cli clean-css-cli concurrently esbuild 
+
+npm install esbuild eslint-plugin-import eslint-plugin-react-hooks eslint-plugin-react eslint-plugin-sonarjs eslint-plugin-unicorn eslint
+
+npm install -D react-dom react-laag react-responsive-carousel react-syntax-highlighter react
+
+npm install -D react-dom@latest react-number-format@latest react-resize-detector@latest react-responsive-carousel@latest react@latest
+

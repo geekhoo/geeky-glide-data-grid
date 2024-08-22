@@ -1,0 +1,13 @@
+import * as React from "react";
+import { type DataEditorProps, type GridCell, type Item } from "../src/index.js";
+import type { DataEditorRef } from "../src/data-editor/data-editor.js";
+export declare function sendClick(el: Element | Node | Document | Window, options?: any, runTimers?: boolean): void;
+export declare function sendTouchClick(el: Element | Node | Document | Window, options?: any): void;
+export declare const makeCell: (cell: Item) => GridCell;
+export declare const basicProps: DataEditorProps;
+export declare function getCellCenterPositionForDefaultGrid(cell: Item): [number, number];
+export declare function prep(resetTimers?: boolean): Element | null;
+export declare const Context: React.FC;
+export declare const EventedDataEditor: React.ForwardRefExoticComponent<DataEditorProps & React.RefAttributes<DataEditorRef>>;
+export declare function standardAfterEach(): void;
+export declare function standardBeforeEach(): void;
